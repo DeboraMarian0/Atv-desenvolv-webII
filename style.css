@@ -1,0 +1,23 @@
+.espacamento{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+input[type="radio"]{
+    margin-right: 1px;
+}
+
+.check{
+    margin-right: 5px;
+}
+
+
+.button{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+li {
+    border-bottom: 1px solid #c5bebe;
+    margin-bottom: 1rem;
+}
