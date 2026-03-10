@@ -1,4 +1,4 @@
-#Lista de Contatos - Manipulação do DOM
+##Lista de Contatos - Manipulação do DOM
 
 Projeto desenvolvido na disciplina **Desenvolvimento Web II** da faculdade, com o objetivo de praticar **manipulação do DOM utilizando JavaScript**.
 
