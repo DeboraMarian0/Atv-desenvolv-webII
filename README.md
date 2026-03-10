@@ -20,11 +20,11 @@ Praticar conceitos de **JavaScript no front-end**, principalmente:
 
 ## 🚀 Funcionalidades
 
-- 📌 Adicionar contatos à lista
-- 📌 Validação de campos obrigatórios (nome e telefone)
-- 📌 Alterar entre **tema claro e escuro**
-- 📌 Limpar todos os contatos da lista
-- 📌 Interface estilizada com **Bootstrap**
+- Adicionar contatos à lista
+- Validação de campos obrigatórios (nome e telefone)
+- Alterar entre **tema claro e escuro**
+- Limpar todos os contatos da lista
+- Interface estilizada com **Bootstrap**
 
 ---
 
