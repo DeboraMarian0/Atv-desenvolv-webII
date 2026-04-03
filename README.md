@@ -40,4 +40,4 @@ Praticar conceitos de **JavaScript no front-end**, principalmente:
 
 Faça o clone deste repositório:
    ```bash
-   git clone
+   git clone https://github.com/DeboraMarian0/Atv-desenvolv-webII.git
