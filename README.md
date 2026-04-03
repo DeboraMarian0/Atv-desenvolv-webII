@@ -4,6 +4,7 @@ Projeto desenvolvido na disciplina **Desenvolvimento Web II** da faculdade, com 
 
 A aplicação permite cadastrar contatos em uma lista dinâmica diretamente na página, além de possibilitar a alteração de tema (claro/escuro) e limpeza da lista.
 
+👉 **Visualize o projeto aqui:** [[Projeto CodBoost](https://delightful-haupia-e82a11.netlify.app/)]
 ---
 
 ## 🎯 Objetivo da Atividade
