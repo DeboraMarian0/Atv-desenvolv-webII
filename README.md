@@ -36,3 +36,8 @@ Praticar conceitos de **JavaScript no front-end**, principalmente:
 - **Bootstrap 4**
 
 ---
+## 🛠️ Como executar o projeto
+
+Faça o clone deste repositório:
+   ```bash
+   git clone
