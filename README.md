@@ -6,7 +6,7 @@ A aplicação permite cadastrar contatos em uma lista dinâmica diretamente na p
 
 👉 **Visualize o projeto aqui:** https://aplicando-javascript.netlify.app/
 
-## 🎯 Objetivo da Atividade
+## Objetivo da Atividade
 
 Praticar conceitos de **JavaScript no front-end**, principalmente:
 
@@ -18,7 +18,7 @@ Praticar conceitos de **JavaScript no front-end**, principalmente:
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Adicionar contatos à lista
 - Validação de campos obrigatórios (nome e telefone)
@@ -28,7 +28,7 @@ Praticar conceitos de **JavaScript no front-end**, principalmente:
 
 ---
 
-## 🖥️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
@@ -36,7 +36,7 @@ Praticar conceitos de **JavaScript no front-end**, principalmente:
 - **Bootstrap 4**
 
 ---
-## 🛠️ Como executar o projeto
+## Como executar o projeto
 
 Faça o clone deste repositório:
    ```bash
